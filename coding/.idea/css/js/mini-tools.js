@@ -1,6 +1,6 @@
 // Color Palette Generator
 const colorPresets = {
-    modern: ['#2C3E50', '#E74C3C', '#ECF0F1', '#3498DB', '#2ECC71'],
+    modern: ['#425a72ff', '#E74C3C', '#ECF0F1', '#3498DB', '#2ECC71'],
     rustic: ['#8B4513', '#DEB887', '#F5DEB3', '#D2691E', '#A0522D'],
     minimalist: ['#FFFFFF', '#000000', '#CCCCCC', '#666666', '#999999'],
     tropical: ['#FF6B6B', '#4ECDC4', '#45B7D1', '#96CEB4', '#FFEEAD']
